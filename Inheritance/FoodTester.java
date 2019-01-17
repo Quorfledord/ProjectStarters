@@ -1,10 +1,8 @@
-
 /**
- * Write a description of class FoodTester here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+ * Uncomment and run each code segment below one at a time.  
+ * Make sure you understand why each does or does not work. 
+*/
+
 public class FoodTester 
 {
 	public static void main(String args[]) 
