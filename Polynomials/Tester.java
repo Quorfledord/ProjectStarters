@@ -15,7 +15,14 @@ public class Tester
 
         // Restrictions on input String:  No whitespaces, no parentheses, no division, must use
         //                                a "*" for implied multiplication, must use a "^" to 
-        //                                designate powers of x and y.
+        //                                designate powers of x and y if not 0, if A is not 1, then
+        //                                A must be explicitly given. The constant A must come first,
+        //                                followed by x^B, followed by y^C, if B and C are not 0.
+        
+        // Invalid String examples:
+        // "-5xy", not valid, should be written as "-5*x^1*y^1"
+        // "3-x^5", not valid, should be written as "3-1*x^5"
+        // "7*y^4*x^3", not valid, should be written as "7*x^3*y^4"
         
         String ss = "-5*x^2*y^1+6*y^1-9-8*x^1*y^1"; // This is an example of a valid String.
         
