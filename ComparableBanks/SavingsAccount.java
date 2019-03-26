@@ -14,11 +14,23 @@ public class SavingsAccount extends BankAccount
         this.rate = r;
     }
     
+    public SavingsAccount( String name, double deposit, double r, int num )
+    {
+        super( name, deposit, num );
+        this.rate = r;
+    }
+    
     public void computeInterest()
     {
         double interest = rate*getBalance();
         
         this.deposit( interest );
     }
+
+    public double getRate()
+    {
+        return rate;
+    }
+    
 }
 

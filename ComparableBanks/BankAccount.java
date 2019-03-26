@@ -21,6 +21,13 @@ public class BankAccount extends Account implements Comparable<BankAccount>
         totalAccounts++;
     }
     
+    public BankAccount( String n, double b, int num )
+    {
+        balance = b;
+        name = n;
+        accountNumber = num;
+    }
+    
     public int getAccountNumber()
     {
         return accountNumber;
