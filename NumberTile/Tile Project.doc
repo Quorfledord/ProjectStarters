@@ -1,0 +1,735 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch39\stshfloch39\stshfhich39\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f5\fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier{\*\falt Courier New};}{\f36\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f39\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\f40\froman\fcharset0\fprq0{\*\panose 00000000000000000000}Times-Roman;}{\f339\froman\fcharset238\fprq2 Times New Roman CE;}{\f340\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f342\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f343\froman\fcharset162\fprq2 Times New Roman Tur;}{\f344\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f345\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f346\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f347\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f359\fmodern\fcharset238\fprq1 Courier New CE;}{\f360\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f362\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f363\fmodern\fcharset162\fprq1 Courier New Tur;}{\f364\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f365\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f366\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f367\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f699\fswiss\fcharset238\fprq2 Tahoma CE;}{\f700\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f702\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f703\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f704\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f705\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f706\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f707\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}
+{\f708\fswiss\fcharset222\fprq2 Tahoma (Thai);}{\f729\fswiss\fcharset238\fprq2 Calibri CE;}{\f730\fswiss\fcharset204\fprq2 Calibri Cyr;}{\f732\fswiss\fcharset161\fprq2 Calibri Greek;}{\f733\fswiss\fcharset162\fprq2 Calibri Tur;}
+{\f736\fswiss\fcharset186\fprq2 Calibri Baltic;}{\f737\fswiss\fcharset163\fprq2 Calibri (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \styrsid14963922 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f39\hich\af39\dbch\af39\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*
+\ts15\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \f39\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon11 \snext15 \styrsid16000309 Table Grid;}{
+\s16\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af36\afs16\alang1025 \ltrch\fcs0 \f36\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \slink17 \ssemihidden \styrsid11819205 
+Balloon Text;}{\*\cs17 \additive \rtlch\fcs1 \af36\afs16 \ltrch\fcs0 \f36\fs16 \sbasedon10 \slink16 \slocked \ssemihidden \styrsid11819205 Balloon Text Char;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Normal Table;Table Subtle 2;Table Web 3;Table Grid;}}
+{\*\pgptbl {\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0
+}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp
+\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid79356\rsid89739\rsid150088\rsid197385\rsid220046\rsid748662\rsid797386\rsid1135111\rsid1142503\rsid1264411\rsid1271220\rsid1376605\rsid1445013\rsid1508334\rsid1510050\rsid1605418
+\rsid1641212\rsid2181163\rsid2239604\rsid2241017\rsid2388428\rsid2653982\rsid2784866\rsid3147718\rsid3307761\rsid3343565\rsid3633288\rsid3878047\rsid3893599\rsid4540988\rsid4589686\rsid4594319\rsid4604088\rsid4667005\rsid4681464\rsid4808624\rsid4991756
+\rsid5000748\rsid5048084\rsid5050515\rsid5076765\rsid5312053\rsid5395823\rsid5717482\rsid5908659\rsid6099561\rsid6245093\rsid6367856\rsid6373060\rsid6774745\rsid6841139\rsid6899767\rsid7034130\rsid7221854\rsid7370339\rsid7424152\rsid7430831\rsid7436918
+\rsid7475226\rsid7475864\rsid7479434\rsid7541613\rsid8061139\rsid8345443\rsid8404588\rsid8411113\rsid8461093\rsid8793098\rsid8807620\rsid8979391\rsid9005809\rsid9060490\rsid9121237\rsid9189683\rsid9268793\rsid9325371\rsid9375314\rsid9450223\rsid9709494
+\rsid9712636\rsid9721481\rsid10031310\rsid10223823\rsid10316392\rsid10370818\rsid10646415\rsid10777725\rsid10967697\rsid11159949\rsid11171162\rsid11339134\rsid11347921\rsid11688210\rsid11802329\rsid11814389\rsid11819205\rsid12061871\rsid12351800
+\rsid12474043\rsid12521250\rsid12648793\rsid12739406\rsid12866746\rsid12933469\rsid13116794\rsid13266764\rsid13322399\rsid13589408\rsid13834179\rsid13850607\rsid13911831\rsid14167417\rsid14170547\rsid14310461\rsid14374847\rsid14702441\rsid14834159
+\rsid14894579\rsid14963922\rsid15024548\rsid15165542\rsid15280517\rsid15489506\rsid15559611\rsid15625433\rsid15758229\rsid15799400\rsid15928347\rsid16000309\rsid16127604\rsid16138325\rsid16323213\rsid16336183}{\*\generator Microsoft Word 11.0.0000;}{\info
+{\title 24}{\author 1}{\operator MathMan}{\creatim\yr2019\mo4\dy1\hr7\min25}{\revtim\yr2019\mo4\dy1\hr7\min25}{\printim\yr2014\mo1\dy27\hr13\min45}{\version2}{\edmins0}{\nofpages2}{\nofwords478}{\nofchars2725}{\nofcharsws3197}
+{\vern24617}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1008\margr1008\margt1152\margb1152\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\donotembedsysfont1\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180
+\dgvspace180\dghorigin1008\dgvorigin1152\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot9189683\newtblstyruls\nogrowautofit \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid1508334\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang 
+{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8404588 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid1264411 {\*\bkmkstart _GoBack}{\*\bkmkend _GoBack}AP Computer Science A
+\par 
+\par Project:  NumberTiles
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8404588 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid1264411 April 1, 2019
+\par }\pard \ltrpar\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8404588 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid1264411 Name}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411 :__________________________}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \b\f0\fs24\insrsid1264411 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8404588 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid1264411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1508334 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid1264411 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 A game uses square tiles that have numbers on their sides. Each tile is labeled with a number on each of its}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411  }{
+\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 four sides and may be rotated clockwise, as illustrated below.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 
+\par 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 INITIAL }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 AFTER 1}{\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411  \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 AFTER 2}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411  \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f0\fs24\insrsid1264411\charrsid1508334 AFTER 3}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411  \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 AFTER 4
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 \tab \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 ROTATION}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 \tab \tab }{\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 ROTATIONS }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 ROTATIONS}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \f0\fs24\insrsid1264411 \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411\charrsid1508334 ROTATIONS}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid1264411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid1264411 
+{\shp{\*\shpinst\shpleft-92\shptop110\shpright1039\shpbottom1147\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1026{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 2}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100728892a092020000b10500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9ba40984281b9482a82a21400d1567c76b2716
+b6c7b59deca6bf9eb1771302e542d5cbeed8f3e6eb7966a6178dd1642b7c50604bda3fe951222c874ad955497f3d5c7f19531222b315d36045497722d08bd9e74fd3da4dc400d6a02be1093ab16152bb92ae637493a2087c2d0c0b27e08445a5046f58c4a35f159567357a37ba18f47aa7450dbe721eb808016faf5a259d65
+ff520a1eefa40c22125d52cc2de6afcfdf65fa16b3299bac3c736bc5bb34d83f646198b218f4e0ea8a4546365efde5ca28ee21808c271c4c01522a2e720d584dbff7a69ac59a39916b4172823bd014fe9f5b7ebbbdf74455251d506299c1277a104d24dfa02183c44eedc204410b87b0d8e035bef2fe3ee0652aba91dea43f
+9643508f3cef0edc26671c2fcffae3fe78440947d5e9683c3c1f252fc58bb1f3217e176048124aeaf1e932a36c7b13620bdd4352ac005a55d74aeb7c48ed222eb5275b860fad634e119dbf42694b6a0cfe75d4cb8e5fe992eb83fd5233fed4a57784427fdaa670223756975622a825224b71a745c268fb53482436f3f14e8e
+8c73610f7966744249ace823861dfe25ab8f18b775a0458e0c361e8c8db2e05b965e535b3deda9952d1edff0a8ee24c666d9748db3846a877de3a19dbbe0f8b542a26f5888f7cce3a061abe0f28877f8911af075a093285983fff3de7dc263ffa396921a07b7a4e1f786794189fe617132cefbc3619af47c188ece0678f0c7
+9ae5b1c66ecc2560cbf4714d399ec5848f7a2f4a0fe61177cc3c454515b31c639734eec5cbd8ae13dc515ccce71984b3ed58bcb10bc793eb446f6ab087e69179d73578c4c9b885fd88b3c99b3e6fb1c9d2c27c1341aa3c0489e096d58e78dc0b798cba1d9616cff139a35e36edec190000ffff0300504b0304140006000800
+00002100664a617edb000000090100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dc5aa7054192c6a900152e9c28a86737deda16f13ab2dd34fc3dce098e3b339a7dd36c27d7b31143b49e04ac960530a4ce2b4b5ac0d7e7eba204169324257b4f28e007236cdbebab46d6ca5fe803
+c77dd22c9750aca50093d250731e3b834ec6a51f90b277f2c1c994cfa0b90af292cb5dcfd745f1c09db4943f1839e08bc1ee7b7f760276cfbad25d2983d995cada713a9cdef59b10b737d3d30658c229fd8561c6cfe8d066a6a33f938aac17b0a8d63999f5559e34fbc55d05ec380bf78fc0db86ff5fd0fe020000ffff0300
+504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73504b01022d
+0014000600080000002100728892a092020000b10500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100664a617edb000000090100000f00000000000000000000000000ec0400006472732f646f776e7265762e786d6c504b050600000000040004
+00f3000000f40500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 4           3
+\par        7
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 4           3
+\par        7
+\par }}\dpx-92\dpy110\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2136\shptop110\shpright3267\shpbottom1147\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplid1027{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 131072}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 3}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100e0e4c96e95020000b80500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9b840442940d4a41549510a042c5d9f1dac4c2
+f6b8b693ddf4d777ecdd2c8172a1ea6577ec79f3f53c33f3f3c668b2153e28b0251d1e0d28119643a5ec53497f3e5c7d99521222b315d36045497722d0f3c5e74ff3dacdc408d6a02be1093ab16156bb92ae6374b3a2087c2d0c0b47e08445a5046f58c4a37f2a2acf6af46e74311a0c4e8a1a7ce53c701102de5eb64abac8
+fea5143cde4a194424baa4985bcc5f9fbfabf42d1673367bf2ccad15efd260ff908561ca62d0ded5258b8c6cbcfacb9551dc4300198f389802a4545ce41ab09ae1e04d35f76be644ae05c909aea729fc3fb7fc667be789aa4a7a4c8965069fe84134917c85861c27766a176608ba77088b0d5ee32befef035ea6a21be94dfa
+633904f5c8f3aee73639e378793a9c0ea7134a38aa4e26d3f1d92479295e8c9d0ff19b00439250528f4f971965dbeb105be81e926205d0aaba525ae7436a1771a13dd9327c681d738ae8fc154a5b5263f0e3c9203b7ea54bae7bfb9566fcb94bef0085feb44de1446eac2ead44504b4496e24e8b84d1f68790486ce6e39d1c
+19e7c2f67966744249ace823861dfe25ab8f18b775a0458e0c36f6c64659f02d4bafa9ad9ef7d4ca168f6f7850771263b36a7247f57db2826a87ede3a11dbfe0f89542beaf598877cce3bc61c7e00e89b7f8911af091a093285983fffdde7dc2e318a096921ae7b7a4e1d786794189fe6e7140ce86e3711af87c184f4e4778
+f0879ad5a1c66ecc0560e70c715b399ec5848f7a2f4a0fe61157cd32454515b31c639734eec58bd86e155c555c2c97198423ee58bcb6f78e27d789e5d4670fcd23f3aeebf388037203fb4967b337edde6293a585e5268254791612cf2dab1dffb81ef23475ab2ced9fc37346bd2cdcc51f000000ffff0300504b0304140006
+00080000002100a8e3bef6dd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca89314a5691aa70254b870a220cedbd8b52d623b8add34fc3ddb133deeccd3ec4cb39d5dcf2635461bbc807c910153be0bd27a2de0ebf3f5a10216137a897df04ac0af8ab06d6f6f1aac
+6538fb0f35ed936614e2638d024c4a43cd79ec8c72181761509ebc63181d263a47cde588670a773d2fb2ace40eada70f0607f56254f7b33f3901bb67bdd65d85a3d955d2da69fe3ebeeb3721eeefe6a70db0a4e6f40fc3a53e5587963a1dc2c9cbc87a0145be2c092523a74d042c8b7205ec70111e57c0db865f4f68ff0000
+00ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73
+504b01022d0014000600080000002100e0e4c96e95020000b80500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100a8e3bef6dd0000000a0100000f00000000000000000000000000ef0400006472732f646f776e7265762e786d6c504b05060000
+000004000400f3000000f90500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 7           4
+\par        3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8193\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 7           4
+\par        3
+\par }}\dpx2136\dpy110\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4330\shptop110\shpright5461\shpbottom1147\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz2\shplid1028{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 196608}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 4}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100b6b4c97b95020000b80500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9ba40984880d4a41549510a0868ab3e3b58985
+ed716d27bbe9af67ecdd0d8172a1ea6577ec79f3f53c3367e78dd1642b7c50604b3a3c1a50222c874ad9c792febabffa32a52444662ba6c18a92ee44a0e7f3cf9fce6a3713235883ae8427e8c48659ed4aba8ed1cd8a22f0b5302c1c8113169512bc61118ffeb1a83cabd1bbd1c56830382e6af095f3c04508787bd92ae93c
+fb9752f0782b651091e892626e317f7dfeaed2b7989fb1d9a3676ead789706fb872c0c531683ee5d5db2c8c8c6abbf5c19c53d0490f1888329404ac545ae01ab190ede54b35c3327722d484e707b9ac2ff73cb6fb6779ea8aaa4634a2c33f844f7a289e41b34649cd8a95d982168e910161bbcc657eeef035ea6a21be94dfa
+633904f5c8f36ecf6d72c6f1f264381d4e279470541d4fa6e3d349f252bc183b1fe277018624a1a41e9f2e33cab6d721b6d01e926205d0aaba525ae7436a1771a13dd9327c681d738ae8fc154a5b5263f0af934176fc4a975cefed579af1a72ebd0314fad3368513b9b1bab412412d11598a3b2d1246db9f4222b1998f7772
+649c0bbbcf33a3134a62451f31ecf02f597dc4b8ad032d7264b0716f6c9405dfb2f49adaeaa9a756b6787cc383ba93189b55933b6ad4f7c90aaa1db68f8776fc82e3570af9be6621de318ff3861d833b24dee2476ac047824ea2640dfecf7bf7098f63805a4a6a9cdf9286df1be60525fa87c501391d8ec769e0f3613c3919
+e1c11f6a56871abb3117809d33c46de57816133eea5e941ecc03ae9a458a8a2a6639c62e69ecc58bd86e155c555c2c16198423ee58bcb64bc793ebc472eab3fbe68179d7f579c401b9817ed2d9ec4dbbb7d8646961b18920559e85c473cb6ac73fae873c4ddd2a4bfbe7f09c512f0b77fe0c0000ffff0300504b0304140006
+000800000021001854d07cdd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8131a4a08712a40854b4f14c4791bbbb6456c47b69b86bf677b82d36a7746b36fdaf5ec0636a9986cf002ca45014cf93e48ebb580cf8fd79b1a58cae8250ec12b013f2ac1babbbc68b1
+91e1e4dfd5b4cb9a51884f0d0a30398f0de7a937ca615a845179d20e213accb446cd65c41385bb81df16c58a3bb49e3e181cd58b51fdf7eee8046c9ef583ee6b8c66534b6ba7f9ebb0d56f425c5fcd4f8fc0b29af39f19cef8840e1d31edc3d1cbc40601d572495d3209254d32dc55ab12d8fe7ca8ee81772dff5fa1fb0500
+00ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73
+504b01022d0014000600080000002100b6b4c97b95020000b80500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021001854d07cdd0000000a0100000f00000000000000000000000000ef0400006472732f646f776e7265762e786d6c504b05060000
+000004000400f3000000f90500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        7
+
+\par 3           4
+\par        4
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8194\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        7
+\par 3           4
+\par        4
+\par }}\dpx4330\dpy110\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6481\shptop101\shpright7612\shpbottom1138\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz4\shplid1029{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 262144}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 6}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021003005761a96020000b80500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9b401242c406a520aa4a085043c5d9f1dac4c2
+f6b8b693ddf4d777ecdd0d8172a1ea6577ec79f3f53c33e7178dd1642b7c50604b3a3c1a50222c874ad9a792fe7cb8fe32a52444662ba6c18a92ee44a017f3cf9fce6b3713c7b0065d094fd0890db3da95741da39b1545e06b61583802272c2a2578c3221efd53517956a377a38be3c16052d4e02be7818b10f0f6aa55d279
+f62fa5e0f14eca2022d125c5dc62fefafc5da56f313f67b327cfdc5af12e0df60f5918a62c06ddbbba6291918d577fb9328a7b0820e311075380948a8b5c0356331cbca966b9664ee45a909ce0f63485ffe796df6eef3d51554927945866f0891e4413c95768c824b153bb3043d0d2212c36788dafdcdf07bc4c4537d29bf4
+c77208ea91e7dd9edbe48ce3e5e9703a9c8e29e1a89a8ca7a3b371f252bc183b1fe237018624a1a41e9f2e33cab63721b6d01e926205d0aaba565ae7436a1771a93dd9327c681d738ae8fc154a5b5263f093f1203b7ea54baef7f62bcdf87397de010afd699bc289dc585d5a89a096882cc59d1609a3ed0f2191d8ccc73b39
+32ce85dde799d10925b1a28f1876f897ac3e62dcd681163932d8b83736ca826f597a4d6df5dc532b5b3cbee141dd498ccdaac91d75d2f7c90aaa1db68f8776fc82e3d70af9be6121de338ff3861d833b24dee1476ac047824ea2640dfef77bf7098f63805a4a6a9cdf92865f1be60525fabbc501391b8e4669e0f361343e3d
+c6833fd4ac0e3576632e013b6788dbcaf12c267cd4bd283d98475c358b141555cc728c5dd2d88b97b1dd2ab8aab8582c320847dcb17863978e27d789e5d4670fcd23f3aeebf38803720bfda4b3d99b766fb1c9d2c2621341aa3c0b89e796d58e7f5c0f799aba5596f6cfe139a35e16eefc0f000000ffff0300504b03041400
+0600080000002100b12cda93dd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca893828209712a40850b270ae2ecc65bdb22b623db4dc3dfb39ce0b4da9dd1ec9b6eb3f891cd98b28b4142bdaa806118a276c148f8787fbe12c0725141ab310694f08d1936fdf959a7
+5a1d4fe10de75d318c42426e95045bcad4729e078b5ee5559c30907688c9ab426b325c2775a2703ff2755535dc2b17e88355133e591cbe76472f61fb68eecc2054b25ba19d9b97cfc3ab7991f2f26279b8075670297f66f8c52774e889691f8f4167364a686e444d56122a9a64b86dea35b03d1dea6b01bceff8ff0afd0f00
+0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c
+73504b01022d00140006000800000021003005761a96020000b80500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100b12cda93dd0000000a0100000f00000000000000000000000000f00400006472732f646f776e7265762e786d6c504b050600
+00000004000400f3000000fa0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+
+\par 4           7
+\par        4
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8196\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+\par 4           7
+\par        4
+\par }}\dpx6481\dpy101\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8685\shptop110\shpright9816\shpbottom1147\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz3\shplid1030{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 327680}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 5}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100ab913b5e95020000b80500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9bd00442c406a520aa4a085043c5d9f1dac4c2
+f6b8b693ddf4d733f6ee868472a1ea6577ec79f3f53c33e7178dd164237c50604b3a3c1a50222c874ad9a792fe7ab8fe32a12444662ba6c18a926e45a017b3cf9fce6b3715c7b0025d094fd0890dd3da957415a39b1645e02b61583802272c2a2578c3221efd53517956a377a38be3c1e0a4a8c157ce031721e0ed55aba4b3
+ec5f4ac1e39d944144a24b8ab9c5fcf5f9bb4cdf6276cea64f9eb995e25d1aec1fb2304c590cba7375c522236baffe726514f71040c6230ea600291517b906ac66387853cd62c59cc8b52039c1ed680affcf2dbfdddc7ba2aa928e29b1cce0133d8826926fd0907162a776618aa08543586cf01a5fb9bf0f78998a6ea437e9
+8fe510d423cfdb1db7c919c7cbd3e16438c1181c5527e3c9e82c7b2f5e8d9d0ff1bb00439250528f4f9719659b9b10311184f690142b8056d5b5d23a1f52bb884bedc986e143eb9853448b0394b6a4c6e05fc783ecf840975cefec979af1e754e4a1073c699bc289dc585d5a89a096882cc5ad1609a3ed4f2191d8ccc73b39
+32ce85dde599d10925b1a28f1876f8d7ac3e62dcd681163932d8b83336ca826f593aa4b67aeea9952d1e49daab3b89b15936b9a3467d9f2ca1da62fb7868c72f387ead90ef1b16e23df3386fd831b843e21d7ea4067c24e8244a56e0ffbc779ff03806a8a5a4c6f92d69f8bd665e50a27f581c90b3e16894063e1f46e3d363
+3cf87dcd725f63d7e612b07386b8ad1ccf62c247dd8bd28379c455334f5151c52cc7d8258dbd7819dbad82ab8a8bf93c8370c41d8b3776e178729d584e7df6d03c32efba3e8f3820b7d04f3a9bbe69f7169b2c2dccd711a4cab390786e59edf8c7f590dbb55b6569ffec9f33ea75e1ce5e000000ffff0300504b0304140006
+000800000021006ad59650dc0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca81304c14de354800a174e2d88f336761dabb11dd96e1afe9eed098e3bf3343bd3ac6737b049c7648397502e0a60da7741596f247c7dbedd096029a3573804af25fce804ebf6faaac15a
+85b3dfea69970da3109f6a94d0e73cd69ca7aed70ed3228cda937708d161a6331aae229e29dc0dfcbe282aeed07afad0e3a85f7bdd1d77272761f36296a61318fb8d50d64ef3f7e1c3bc4b797b333faf80653de73f182ef5a93ab4d4691f4e5e25364810957824948c923611b01465056c7f111e9e80b70dff3fa1fd050000
+ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c7350
+4b01022d0014000600080000002100ab913b5e95020000b80500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021006ad59650dc0000000a0100000f00000000000000000000000000ef0400006472732f646f776e7265762e786d6c504b0506000000
+0004000400f3000000f80500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 4           3
+\par        7
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8195\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 4           3
+\par        7
+\par }}\dpx8685\dpy110\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4604088 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 The }{\rtlch\fcs1 \af2 \ltrch\fcs0 \f2\insrsid1264411\charrsid8404588 NumberTile}{\rtlch\fcs1 \af40 \ltrch\fcs0 
+\f40\insrsid1264411  class has been provided in the project files.  It is complete, which means you do not need to edit it whatsoever.
+\par 
+\par Tiles are placed on a game board so that the adjoining sides of adjacent tiles have the same number. The following figure illustrates an arrangement of tiles and shows a new tile that is to be placed on the game board.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par \tab \tab \tab \tab GAME BOARD\tab \tab \tab \tab \tab \tab  NEW TILE
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid1264411 {\shpgrp{\*\shpinst\shpleft586\shptop94\shpright9688\shpbottom1131\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz5\shplid1031
+{\sp{\sn groupLeft}{\sv 0}}{\sp{\sn groupTop}{\sv 0}}{\sp{\sn groupRight}{\sv 57800}}{\sp{\sn groupBottom}{\sv 6584}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn wzName}{\sv Group 30}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b03041400060008000000210013114db5c0030000fc1b00000e0000006472732f65326f446f632e786d6cec59db6edb38107d5fa0ff40f0bd91644bbe214a90a64db040da069b147da629ca
+164a912c49474abf7e87d4c5b15d14eb2c360ba47a9179199233873307e3e1e9795d72f4c0b429a44871741262c4049559215629fe727ff5768691b14464844bc152fcc80c3e3f7bf3c769a5166c24d792674c23d8449845a552bcb6562d82c0d0352b8939918a0998cca52e8985ae5e05992615ec5ef260148693a0923a53
+5a52660c8cbe6f26f199df3fcf19b59ff3dc308b788a4137ebbfda7f97ee1b9c9d92c54a13b52e68ab067986162529041cda6ff59e588236ba38d8aa2ca89646e6f684ca3290795e50e66d006ba270cf9a6b2d37cadbb25a542bd5c304d0eee1f4ec6de9a7875b8d8a2cc56380479012eec81f8ba00fe0546ab500996badee
+d4ad6e07564dcfd95be7ba74bf6009aa3dac8f3dacacb688c260329d85613cc688c2dc2499c5f3a4c19daee1720e96d1f5875f2f0cba6303a75daf4ca5c085cc1625f3ef50ba5b13c53cf8c621d0a204eedc8074efac7b276b346b60f2420e23646b188658e8c60d0cfe53a8a6d12c9a25fb48f5069385d2c65e335922d748
+b10607f77e471e6e8c85eb01d14ec49d69242fb2ab8273df7141c52eb9460f04c2815baf22acd891e20255704de324f41befccb9adfbf54b4ee83767e4ee0ed0e3c21dc77cf8b56ab9cb6980f02dfbc89993e1e22f9683fb79d7f9898e8452267a3dbdb493cac1a26316b6f25bad8e59dcd8012bfcc952d87e715908a91b94
+76a1cdbe75d0e68d3c80f4c46ed7b4f5b2f671e763c18d2c65f608eea365435246d1ab02f0be21c6de120dac04010a4c6b3fc327e7122e49b62d8cd652fff8d9b893873080598c2a60b9149bef1ba21946fc4f0101328fe2d8d1a2efc4c974041dfd7466f974466cca4b099e1301a72bea9b4edef2ae996b597e0542be70a7
+c2141114ce4eb1ed9a97b6e15e2074ca2e2ebc1010a122f646dc29eab676283b3fbbafbf12ad5a3fb7106d9f64179264b1e7ee8dac5b29e4c5c6cabcf0b1b045b5c51fe8c151da0bf04404d6ef11050c79fe3c9a298030c3d904a343661de86237ee7e03ba98744e34d0c56ba20ba0d47dbae81308c83e8e492ca2691c4d23
+482206be18d20b3c1df8e235a617a343be1875377d245f8c26a3719cc01f9b812f06bec0fddfd921bf784df905545ff6f38bf133f9621ccfe7d3812fdcbfcd812ff0bcf3a2812f5e135fc4877c1177377d647e918413a869feeff9c572d5d496f8a6fc28b3a6043a4bc2d057655c09b32b25ec17345d980f25d19d42ec7f5c
+12dd56ca0652791952f12f29f0c4e47dbf7d0e736f584ffbbe86ba7db43bfb1b0000ffff0300504b0304140006000800000021002ae10b98df000000080100000f0000006472732f646f776e7265762e786d6c4c8f414bc3401085ef82ff6119c19bddc4da90a6d99452d453116c05e96d9b9d26a1d9d990dd26e9bf773ce9
+71781f6fbe97af27db8a017bdf385210cf221048a5330d550abe0e6f4f29081f3419dd3a420537f4b02eeeef729d1937d2270efb50092e219f690575085d26a52f6bb4dacf5c87c4d9d9f556073efb4a9a5e8f5c6e5bf91c4589b4ba21fe50eb0eb7359697fdd52a781ff5b899c7afc3ee72dede8e87c5c7f72e46a51e1fa6
+cd0a44c029fcc1f0abcfea50b0d3c95dc978d12a58a409930a962f20385e26292f393117cf6390452eff0f287e000000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600
+08000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73504b01022d001400060008000000210013114db5c0030000fc1b00000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021002ae10b98
+df000000080100000f000000000000000000000000001a0600006472732f646f776e7265762e786d6c504b05060000000004000400f3000000260700000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shp{\*\shpinst\shplid1032
+{\sp{\sn relLeft}{\sv 0}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 7181}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 393216}}{\sp{\sn lineWidth}{\sv 6350}}
+{\sp{\sn wzName}{\sv Text Box 8}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b0304140006000800000021009bf08f18be000000da0000000f0000006472732f646f776e7265762e786d6c444fcb6a023114dd17fc877085ee6ac62eca38354a2b2a05573e707d995c93d0c9cd90a4e3f4ef9b45c1e5e1bc97ebd17762a0985c6005f3590582b80ddab1517039ef5e6a1029
+236bec0293825f4ab05e4d9e96d8e870e7230da76c4409e1d4a0029b73df48995a4b1ed32cf4c485bb85e83117188dd411ef25dc77f2b5aadea447c7a5c1624f1b4bedf7e9c72bd87e9a85696b8c765b6be786f17a3b98bd52cfd3f1e31d44a6313fc4ffee2fada06c2d57ca0d90ab3f000000ffff0300504b01022d001400
+0600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d0014000600080000
+0021009bf08f18be000000da0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f20200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        4
+\par 4           3
+\par        7
+\par }}}}{\shp{\*\shpinst\shplid1033{\sp{\sn relLeft}{\sv 8490}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 15672}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 458752}}
+{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 10}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b03041400060008000000210067576b62c1000000db0000000f0000006472732f646f776e7265762e786d6c448f414b03311085ef82ff214cc19bcdd683ac6bd3a25245f0645b7a1e36d324b8992c49dcaeffde3908de66786fdefb66bd9de3a026ca252436b05a36a088fb64033b03c7c3eb
+6d0baa54648b436232f04305b69bebab3576365df893a67d754a42b87468c0d73a765a97de53c4b24c23b168e794235659b3d336e345c2e3a0ef9ae65e470c2c0d1e477af1d47fedbfa381ddb37b707d8bd9ef5a1bc2349fce1feecd989bc5fcf408aad25cffcd7fd7ef56f0855e7e9101f4e6170000ffff0300504b01022d
+0014000600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d0014000600
+08000000210067576b62c1000000db0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f50200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        6
+\par 3           4
+\par        3
+\par }}}}{\shp{\*\shpinst\shplid1034{\sp{\sn relLeft}{\sv 17417}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 24599}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 524288}}
+{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 11}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b030414000600080000002100081bcef9bf000000db0000000f0000006472732f646f776e7265762e786d6c444f4d6b023110bd17fa1fc2147aab597b28dbd5285ab4083d55c5f3b01993e066b22471ddfe7b5328f4368ff739f3e5e83b31504c2eb082e9a40241dc06edd828381eb62f3588
+949135768149c10f25582e1e1fe6d8e870e36f1af6d98812c2a9410536e7be9132b5963ca649e8890b770ed1632e301aa923de4ab8efe46b55bd498f8e4b83c59e3e2cb597fdd52bd8accdbb696b8c76536be786f174fe329f4a3d3f8dab19884c63fe17ffb977bacc9fc2ef2fe500b9b8030000ffff0300504b01022d0014
+000600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d00140006000800
+00002100081bcef9bf000000db0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f30200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        1
+\par 4           2
+\par        3
+\par }}}}{\shp{\*\shpinst\shplid1035{\sp{\sn relLeft}{\sv 26234}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 33416}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 589824}}
+{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 12}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b030414000600080000002100f8c9508ebf000000db0000000f0000006472732f646f776e7265762e786d6c444f4d6b023110bd17fa1fc208bdd5ac1eca76358a165b849eaaa5e7613326c1cd6449d275fbef4d41f0368ff739cbf5e83b31504c2eb082d9b40241dc06edd828f83ebe3fd720
+5246d6d80526057f9460bd7a7c5862a3c385bf683864234a08a70615d89cfb46cad45af298a6a1272edc29448fb9c068a48e7829e1be93f3aa7a911e1d97068b3dbd596acf875faf60b735afa6ad31da5dad9d1bc69fd3a7f950ea69326e1620328df92ebeb9f7bacc9fc3ff2fe500b9ba020000ffff0300504b01022d0014
+000600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d00140006000800
+00002100f8c9508ebf000000db0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f30200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        3
+\par 2           2
+\par        5
+\par }}}}{\shp{\*\shpinst\shplid1036{\sp{\sn relLeft}{\sv 34997}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 42179}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 655360}}
+{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 13}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b0304140006000800000021009785f515bf000000db0000000f0000006472732f646f776e7265762e786d6c444f4d6b023110bd17fa1fc2147aabd9b620eb6a145b6c2978aa8ae7613326c1cd6449d275fbef1b41e86d1eef7316abd17762a0985c6005cf930a04711bb463a3e0b0ff78aa41
+a48cacb10b4c0a7e29c16a797fb7c046870b7fd3b0cb4694104e0d2ab039f78d94a9b5e4314d424f5cb853881e7381d1481df152c27d275faa6a2a3d3a2e0d167b7ab7d49e773f5ec1e6cdcc4c5b63b49b5a3b378cc7d3d67c2af5f830aee720328df95f7c737fe932ff15aebf9403e4f20f0000ffff0300504b01022d0014
+000600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d00140006000800
+000021009785f515bf000000db0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f30200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        5
+\par 2           9
+\par        2
+\par }}}}{\shp{\*\shpinst\shplid1037{\sp{\sn relLeft}{\sv 50618}}{\sp{\sn relTop}{\sv 0}}{\sp{\sn relRight}{\sv 57800}}{\sp{\sn relBottom}{\sv 6584}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 720896}}
+{\sp{\sn fillColor}{\sv 14211288}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 14}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100dbe1f6cbee00000085010000130000005b436f6e74656e745f54797065735d2e786d6c7c90cf4ec3300c87ef48bc43e42b6a53382084daee40e108088d07b012b78dd63a511ccaf6f6a4dbb820e0e83f3f7f9f5c6ff6f3a4168ae23c37705d56a0888db78e8706deb74fc51d2849c81627
+cfd4c0810436ede545bd3d041295d32c0d8c29857badc58c34a3943e10e749efe38c299771d001cd0e07d2375575ab8de7449c8ab4de80b6eea8c78f29a9c77d6e9f4c224d02eae1b4b8b21ac0102667306553bdb0fd4129ce8432278f3b32ba20575903f4af8475f237e09c7bc9af89ce927ac5989e71ce1ada46d1d67f72
+a4a5fcffc86a394be1fbde192abb285d8ebdd1f26da58f4f6cbf000000ffff0300504b0304140006000800000021005af42c5bbf000000150100000b0000005f72656c732f2e72656c736ccfc16ac3300c06e0fb60ef60745f94ee50c688d35ba1d7d23e80b195c42cb68c64b2f5ed677a6ac78e92f83f49c3e127ad6623d1
+c8d9c2aeebc150f61c629e2d5c2fc7b70f305a5d0e6ee54c166ea470185f5f8633adaeb6902eb1a8694a560b4bade51351fd42c969c785729b4c2cc9d556ca8cc5f92f3713bef7fd1ee5d180f1c934a760414e6107e6722b6df31f3b452fac3cd5ce73429ea6e8ff5331f0773ed3d6142733550b41f4de14daba761ce038e0
+d333e32f000000ffff0300504b03041400060008000000210023d19d9ec1000000db0000000f0000006472732f646f776e7265762e786d6c444fdf6bc230107e17f63f841bf8229ad6c990ce28220c04c74027e8e3d1dcda60732949d6d6ff7e190c7cbb8fefe7ad36836d44473e18c70af2590682b874da70a5e0fcf53e5d
+8208115963e39814dc29c066fd345a61a15dcf47ea4eb112298443810aea18db42ca50d66431cc5c4b9cb86fe72dc6047d25b5c73e85db46ceb3ec555a349c1a6a6c695753793bfd580586b29be9fd87bd4c3ef3e5cbc41dfcf5e0951a3f0fdb37109186f810ffbbf73acd5fc0df2fe900b9fe050000ffff0300504b01022d
+0014000600080000002100dbe1f6cbee000000850100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d00140006000800000021005af42c5bbf000000150100000b000000000000000000000000001f0100005f72656c732f2e72656c73504b01022d0014000600
+08000000210023d19d9ec1000000db0000000f00000000000000000000000000070200006472732f646f776e7265762e786d6c504b05060000000003000300b7000000f50200000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid1264411        4
+\par 2           2
+\par        9
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8197\dpgroup\dpcount7\dpx586\dpy94\dpxsize9102\dpysize1037\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 4           3
+\par        7
+\par }}\dpx0\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        6
+
+\par 3           4
+\par        3
+\par }}\dpx1337\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid1264411        1
+\par 4           2
+\par        3
+\par }}\dpx2743\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid1264411        3
+\par 2           2
+\par        5
+\par }}\dpx4131\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid1264411        5
+\par 2           9
+\par        2
+\par }}\dpx5511\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12521250 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid1264411        4
+\par 2           2
+\par        9
+\par }}\dpx7971\dpy0\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr216\dpfillbgcg216\dpfillbgcb216\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0\dpendgroup\dpx0\dpy0\dpxsize0\dpysize0}}}}{\rtlch\fcs1 \af40 \ltrch\fcs0 
+\f40\insrsid1264411 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3307761 {\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 position:}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid12521250     0
+\tab \tab      1\tab \tab      2\tab \tab     3\tab \tab   4}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par 
+\par 
+\par In its original orientation, the new tile can be inserted between the tiles at positions 2 and 3 or between the tiles at positions 3 and 4. If the new tile is rotated once, it can be inserted before the tile at position 0 (the first tile) or after the til
+e
+ at position 4 (the last tile). Assume that the new tile, in its original orientation, is inserted between the tiles at positions 2 and 3. As a result of the insertion, the tiles at positions 3 and 4 are moved one location to the right, and the new tile i
+s inserted at position 3, as shown on the next page.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4604088 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 \tab \tab \tab GAME BOARD AFTER INSERTING TILE
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid1264411 {\shp{\*\shpinst\shpleft7267\shptop242\shpright8398\shpbottom1279\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz10\shplid1038
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lTxid}{\sv 786432}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 19}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100e6678cfa95020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9bd00442c406a520aa4a085049c5d9f1dac4c2
+f6b8b693ddf4d733f66e968472a1ea65d79e79f3f53c33e7178dd164237c50604b3a3c1a50222c874ad9a792fe5a5c7f99501222b315d3604549b722d08bd9e74fe7b59b8a635881ae8427e8c48669ed4aba8ad14d8b22f095302c1c8113169512bc6111affea9a83cabd1bbd1c5f1607052d4e02be7818b10507ad52ae92c
+fb9752f07827651091e892626e317f7dfe2ed3b7989db3e993676ea5789706fb872c0c531683f6aeae586464edd55fae8ce21e02c878c4c11420a5e222d780d50c076faa79583127722d484e703d4de1ffb9e5b79b7b4f54856f7746896506df68219a48be41435084fcd42e4c11f6e010181b942376270f284c6537d29bf4
+c78208ea91e96dcf6ef2c651783a9c0c27634a38aa4ec693d1d93879295e8d9d0ff1bb0043d2a1a41e1f2f73ca363721b6d01d24c50aa05575adb4ce97d430e2527bb261f8d43ae614d1f9014a5b5263f0afe341767ca04bae7bfba566fcb94b6f0f85feb44de1446ead2ead44504b443ec5ad1609a3ed4f2191daccc73b39
+32ce85edf3cce8849258d1470c3bfc6b561f316eeb408b1c196cec8d8db2e05b960ea9ad9e77d4ca168f6fb857773ac666d9b43dd537ca12aa2df68f87760283e3d70a09bf6121de338f23872d836b24dee1476ac05782ee44c90afc9ff7e4098f93805a4a6a1ce19286df6be60525fa87c519391b8e4669e6f365343e3dc6
+8bdfd72cf735766d2e015b67880bcbf17c4cf8a87747e9c13ce2b699a7a8a8629663ec92c6ddf132b68b05b71517f37906e1943b166fec83e3c975a23935daa27964de758d1e71426e6137ec6cfaa6df5b6cb2b4305f47902a0f4322ba65b57b00dc10799cba6d9656d0fe3da35e77eeec050000ffff0300504b0304140006
+00080000002100bcdcd8ecdd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fcb4ec3301045f748fc833548eca88341cd833815a0c2861505b176e3a96d11db51eca6e1ef195674399aa37bcf6d378b1fd88c53723148b85d15c030f451bb60247c7ebcdc54c0525641ab210694f0830936dde545ab1a
+1d4fe11de75d368c42426a94049bf3d8709e7a8b5ea5551c31d0ef1027af329d93e17a52270af7031745b1e65eb9400d568df86cb1ffde1dbd84ed93a94d5fa9c96e2beddcbc7c1ddeccab94d757cbe303b08c4bfe87e14f9fd4a123a77d3c069dd820a114eb925009e25e0023a0baab69cb9e4851d6c0bb969f4fe87e0100
+00ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73
+504b01022d0014000600080000002100e6678cfa95020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100bcdcd8ecdd0000000a0100000f00000000000000000000000000ef0400006472732f646f776e7265762e786d6c504b05060000
+000004000400f3000000f90500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        5
+
+\par 2           9
+\par        2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8202\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        5
+\par 2           9
+\par        2
+\par }}\dpx7267\dpy242\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5939\shptop236\shpright7070\shpbottom1273\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz9\shplid1039{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 851968}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 20}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021000c663ce997020000bb0500000e0000006472732f65326f446f632e786d6cac54df4fdb30107e9fb4ffc1f2fb48d3b5ac54a4a803314d42800613cfae63530b
+dbe7d96e93eeafdfd9494a61bc30ed25b1efbefbf5f9ee4ecf5aa3c956f8a0c056b43c1a51222c875ad9c78afebcbffc34a32444666ba6c18a8aee44a0678b8f1f4e1b3717635883ae8527e8c48679e32aba8ed1cd8b22f0b5302c1c8113169512bc6111affeb1a83d6bd0bbd1c578343a2e1af0b5f3c0450828bde8947491
+fd4b2978bc91328848744531b798bf3e7f57e95b2c4ed9fcd133b756bc4f83fd431686298b41f7ae2e586464e3d55fae8ce21e02c878c4c11420a5e222d780d594a357d5dcad9913b9162427b83d4de1ffb9e5d7db5b4f545dd131d26399c137ba176d245fa12528427e1a17e608bb73088c2dcaf19d077940612abb95dea4
+3f1644508fae767b7693378ec22fe5ac9c4d29e1a83a9ece2627d3e4a57836763ec46f020c49878a7a7cbccc29db5e85d84107488a1540abfa52699d2fa961c4b9f664cbf0a975cc29a2f317286d4983c13f4f47d9f10b5d72bdb75f69c69ffaf40e50e84fdb144ee4d6ead34a047544e453dc699130dafe1012a9cd7cbc91
+23e35cd87d9e199d50122b7a8f618f7fceea3dc65d1d689123838d7b63a32cf88ea597d4d64f03b5b2c3e31b1ed49d8eb15db5b9a7caf1d0282ba877d83f1eba090c8e5f2a24fc8a8578cb3c8e1cb60cae9178831fa9015f09fa13256bf0bfdf92273c4e026a296970842b1a7e6d981794e8ef1667e4a49c4cd2cce7cb64fa
+2575b83fd4ac0e357663ce015ba7c485e5783e267cd4c3517a300fb86d96292aaa98e518bba271389ec76eb1e0b6e262b9cc209c72c7e295bd733cb94e34a746bb6f1f98777da3479c906b18869dcd5ff57b874d9616969b0852e561484477acf60f801b228f53bfcdd20a3abc67d4f3ce5dfc010000ffff0300504b030414
+00060008000000210081a4d1c5dd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fcb4ec3301045f748fc833548eca843229a47e354800a1b5614d4b51bbbb6453c8e62370d7fcfb082e5688eee3db7dd2e7e60b39ea20b28e07e9501d3d807e5d008f8fc78b9ab80c52451c921a016f0ad236cbbebab
+56362a5cf05dcffb641885606ca4009bd2d8701e7babbd8cab306aa4df294c5e263a27c3d5242f14ee079e67d99a7be9901aac1cf5b3d5fdd7feec05ec9e4c6dfa4a4e765729e7e6e5707a33af42dcde2c8f1b60492fe90f865f7d52878e9c8ee18c2ab241c0435dd4840ac88b353002caaca4714722f3b200deb5fcff84ee
+070000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e7265
+6c73504b01022d00140006000800000021000c663ce997020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d001400060008000000210081a4d1c5dd0000000a0100000f00000000000000000000000000f10400006472732f646f776e7265762e786d6c504b0506
+0000000004000400f3000000fb0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+
+\par 2           2
+\par        5
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8201\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+\par 2           2
+\par        5
+\par }}\dpx5939\dpy236\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4646\shptop242\shpright5777\shpbottom1279\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz11\shplid1040{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 917504}}{\sp{\sn fillColor}{\sv 14211288}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 18}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021004574c01da9020000df0500000e0000006472732f65326f446f632e786d6cac545b4fdb30147e9fb4ff60f97d248196958a147520a6490cd060e2d975ec36c2
+f6f16cb749f7eb77ec246d61bc30ed25b1cff97c2edfb99c5fb45a918d70be0653d2e228a744180e556d9625fdf978fd6942890fcc544c811125dd0a4f2f661f3f9c37762a8e6105aa128ea011e3a78d2de92a043bcd32cf5742337f045618544a709a05bcba655639d6a075adb2e33c3fcd1a709575c085f728bdea947496
+ec4b2978b893d28b40544931b690be2e7d17f19bcdced974e9985dd5bc0f83fd43149ad5069dee4c5db1c0c8dad57f99d23577e04186230e3a03296b2e520e984d91bfcae661c5ac48b92039deee68f2ffcf2cbfdddc3b5257583bac94611a6bf428da40be404b5084fc34d64f11f66011185a942376907b14c6b45be974fc
+634204f5c8f476c76eb4c651f8b998149331251c55a7e3c9e86c1cad64fbc7d6f9f0558026f1505287c54b9cb2cd8d0f1d7480445f1e545d5dd74aa54b6c1871a91cd9302cf56259a4a76aadbf43d5c926e33c4f054797a9bf223c05f0c29232a4c1004fc679b2f04217ddef7d28c69ffb140e50685d99189248edd7871e49
+ecc84aa7b055226294f92124d29f387b230fc6b93021d19dec223aa22466fd9e873d7e1fd57b1e77790c9ec184dd635d1b701d4b2fe9af9e87906587479a0ff28ec7d02edaaeef4e86665a40b5c51e73d04da9b7fcba46c26f980ff7cce158625be1aa0977f8910ab04ad09f285981fbfd963ce2715a504b4983635e52ff6b
+cd9ca0447d33384767c56814f742ba8cc69f8ff1e20e358b438d59eb4bc0f62a70a9599e8e111fd470940ef4136ea479f48a2a6638fa2e69188e97a15b3eb8d1b898cf1308378165e1c63c581e4dc72ac5467b6c9f98b3fd30049ca25b1816029bbe9a890e1b5f1a98af03c83a0d4c24ba63b52f006e91d4f1fdc68b6beaf0
+9e50fbbd3cfb030000ffff0300504b030414000600080000002100ccfeac28e00000000a0100000f0000006472732f646f776e7265762e786d6c4c8f414bc3401085ef82ff6119c14bb19bc698d4984d11c153a56015f4b84dc664697636ec6e9bf8ef1d4f7a1cdec77bdf549bd90ee28c3e18470a56cb040452e35a439d82
+f7b7e79b35881035b57a70840abe31c0a6bebca874d9ba895ef1bc8f9de0120aa556d0c738965286a647abc3d28d489c7d396f75e4d377b2f57ae2723bc834497269b5215ee8f5884f3d36c7fdc92a30981ccde45fecc762b75adf2edcd67f6ebd52d757f3e303888873fc83e1579fd5a166a7833b511bc4a020cbb39c5105
+69968260e0ae280a100726d3e21e645dc9ff2fd43f000000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b0000000000
+00000000000000002f0100005f72656c732f2e72656c73504b01022d00140006000800000021004574c01da9020000df0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100ccfeac28e00000000a0100000f000000000000000000000000000305
+00006472732f646f776e7265762e786d6c504b05060000000004000400f3000000100600000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 2           2
+\par        9
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8203\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 2           2
+\par        9
+\par }}\dpx4646\dpy242\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr216\dpfillbgcg216\dpfillbgcb216\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft584\shptop243\shpright1715\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz6\shplid1041{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 983040}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 17}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100d043289e96020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9bd00442940d4a41549510a042c5d9f1dac4c2
+f6b8b693ddf4d733f6ee868472a1ea65d79e79f3f53c33b3f3c668b2113e28b0251d1e0d28119643a5ec53497f3d5c7d99501222b315d3604549b722d0f3f9e74fb3da4dc531ac4057c2137462c3b476255dc5e8a64511f84a18168ec0098b4a09deb08857ff54549ed5e8dde8e2783038296af095f3c0450828bd6c95749e
+fd4b2978bc95328848744931b798bf3e7f97e95bcc676cfae4995b29dea5c1fe210bc394c5a03b57972c32b2f6ea2f5746710f01643ce2600a905271916bc06a868337d5dcaf9813b9162427b81d4de1ffb9e5379b3b4f54856f774a896506dfe84134917c8386a008f9a95d9822ecde21303628476c2f0f284c6537d29bf4
+c78208ea91e9ed8edde48da3f07438194ec69470549d8c27a3b371f252bc1a3b1fe2770186a443493d3e5ee6946dae436ca13d24c50aa05575a5b4ce97d430e2427bb261f8d43ae614d1f9014a5b5263f0afe341767ca04bae77f64bcdf87397de1e0afd699bc289dc5a5d5a89a096887c8a5b2d1246db9f4222b5998f7772
+649c0bbbcb33a3134a62451f31ecf0af597dc4b8ad032d7264b071676c9405dfb274486df5dc532b5b3cbee15edde9189b65d3f6d4a86f9425545bec1f0fed0406c7af14127ecd42bc631e470e5b06d748bcc58fd480af04dd899215f83fefc9131e2701b594d438c2250dbfd7cc0b4af40f8b3372361c8dd2cce7cb687c7a
+8c17bfaf59ee6becda5c00b6ce101796e3f998f051f747e9c13ce2b659a4a8a8629663ec92c6fe7811dbc582db8a8bc5228370ca1d8bd7f6def1e43ad19c1aeda17964de758d1e71426ea01f76367dd3ef2d36595a58ac234895872111ddb2da3d006e883c4edd364b2b68ff9e51af3b77fe020000ffff0300504b03041400
+0600080000002100fdc2b067dd000000090100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8d3d08209712a40854b4f94aa6737deda16f13a8add34fc3dee096eb39ad1ccdb7a35f98e8d38441748c27c5600436a83766424ecbedeef04b0981469d50542093f1861d55c5fd5aa
+d2e14c9f386e9361b98462a524d894fa8af3d85af42ace428f94bd6318bc4af91c0cd7833ae772dff1b2281eb8578ef282553dbe596cbfb7272f61fd6a9e4c2bd460d7423b374efbe3c67c48797b33bd3c034b38a5bf305cf0333a3499e9104ea423eb242cc5222725948b7b6017ff71be0476c8a21405f0a6e6ff3f687e01
+0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c
+73504b01022d0014000600080000002100d043289e96020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100fdc2b067dd000000090100000f00000000000000000000000000f00400006472732f646f776e7265762e786d6c504b050600
+00000004000400f3000000fa0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 4           3
+\par        7
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8198\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 4           3
+\par        7
+\par }}\dpx584\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3329\shptop243\shpright4460\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz8\shplid1042{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1048576}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 21}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100617f5a0896020000bb0500000e0000006472732f65326f446f632e786d6cac544b4f1b3110be57ea7fb07c2f9b4d1308111b9482a82a2140858ab3e3b58985
+ed716d27bbe9af67ecdd3ca05ca87ad9b567be19cf7cf3383b6f8d266be183025bd1f2684089b01c6a659f2afaebe1eacb84921099ad99062b2aba11819ecf3e7f3a6bdc540c6109ba169ea0131ba68dabe83246372d8ac097c2b070044e58544af08645bcfaa7a2f6ac41ef4617c3c1e0b868c0d7ce031721a0f4b253d259
+f62fa5e0f156ca2022d115c5d862fefafc5da46f313b63d327cfdc52f13e0cf60f5118a62c3eba7375c922232baffe726514f71040c6230ea6002915173907cca61cbcc9e67ec99cc8b92039c1ed680affcf2dbf59df79a2ea8a0e4b4a2c3358a307d146f20d5a8222e4a771618ab07b87c0d8a21cebbc950714a6b45be94d
+fa634204f5c8f466c76ef2c65178524ecac998128eaae3f164743a4e5e8abdb1f3217e1760483a54d463f132a76c7d1d6207dd42d25b01b4aaaf94d6f9921a465c684fd60c4bad630e119dbf42694b1a7cfceb78901dbfd225d73bfb8566fcb90fef0085feb44dcf89dc5a7d5889a08e887c8a1b2d1246db9f4222b5998f77
+62649c0bbb8b33a3134a62461f31ecf1fba83e62dce58116f965b071676c9405dfb1f49adafa794badecf058c383bcd331b68b36f754994b9c440ba837d83f1eba090c8e5f2924fc9a8578c73c8e1cb60cae91788b1fa901ab04fd899225f83fefc9131e2701b5943438c2150dbf57cc0b4af40f8b33725a8e4669e6f36534
+3e19e2c51f6a16871abb321780ad836380d1e563c247bd3d4a0fe611b7cd3cbd8a2a6639be5dd1b83d5ec46eb1e0b6e2623ecf209c72c7e2b5bd773cb94e34a7467b681f99777da3479c901bd80e3b9bbee9f70e9b2c2dcc5711a4cac3b067b52f006e883c4efd364b2be8f09e51fb9d3b7b010000ffff0300504b03041400
+0600080000002100c932fabedd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8431255698853012a5c38d122cedbd8b52d623bb2dd34fc3dcb098eab7d9a79d36d1737b259c564831770bf2a80293f0469bd16f07178b96b80a58c5ee218bc12f0ad126cfbebab0e
+5b192efe5dcdfbac1985f8d4a20093f3d4729e06a31ca6559894a7df29448799cea8b98c78a17037f2b228d6dca1f5d4607052cf460d5ffbb313b07bd21b3d3418cdae91d6cecbe7e94dbf0a717bb33c3e00cb6ac97f30fcea933af4e4740c672f131b055455b92154405957c008a8eb358d3b12593605f0bee3ff27f43f00
+0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c
+73504b01022d0014000600080000002100617f5a0896020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100c932fabedd0000000a0100000f00000000000000000000000000f00400006472732f646f776e7265762e786d6c504b050600
+00000004000400f3000000fa0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        1
+
+\par 4           2
+\par        3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8200\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        1
+\par 4           2
+\par        3
+\par }}\dpx3329\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1920\shptop243\shpright3051\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz7\shplid1043{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1114112}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 22}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b03041400060008000000210095bca79d98020000bb0500000e0000006472732f65326f446f632e786d6cac54df4fdb30107e9fb4ffc1f2fb48d3b5ac54a4a803314d42800613cfae63530b
+dbe7d96e93eeafdfd9494a61bc30ed25b1efbefbf5f9ee4ecf5aa3c956f8a0c056b43c1a51222c875ad9c78afebcbffc34a32444666ba6c18a8aee44a0678b8f1f4e1b3717635883ae8527e8c48679e32aba8ed1cd8b22f0b5302c1c8113169512bc6111affeb1a83d6bd0bbd1c578343a2e1af0b5f3c0450828bde8947491
+fd4b2978bc91328848744531b798bf3e7f57e95b2c4ed9fcd133b756bc4f83fd431686298b41f7ae2e586464e3d55fae8ce21e02c878c4c11420a5e222d780d594a357d5dcad9913b9162427b83d4de1ffb9e5d7db5b4f545dd1f19812cb0cbed1bd6823f90a2d4111f2d3b83047d89d43606c518eef3cc8030a53d9adf426
+fdb120827a647ab7673779e328fc52cecad994128eaae3e96c72324d5e8a6763e743fc26c09074a8a8c7c7cb9cb2ed55881d7480a45801b4aa2f95d6f9921a469c6b4fb60c9f5ac79c223a7f81d2963418fcf374941dbfd025d77bfb9566fca94fef0085feb44de1446ead3ead445047443ec59d1609a3ed0f2191daccc71b
+3932ce85dde799d10925b1a2f718f6f8e7acde63dcd581163932d8b83736ca82ef587a496dfd34502b3b3cbee141dde918db559b7baa3c1e1a6505f50efbc7433781c1f14b85845fb1106f99c791c396c135126ff02335e02b417fa2640dfef75bf284c749402d250d8e7045c3af0df38212fddde28c9c9493499af97c994c
+bf8cf1e20f35ab438ddd9873c0d6297161399e8f091ff570941ecc036e9b658a8a2a6639c6ae681c8ee7b15b2cb8adb8582e3308a7dcb17865ef1c4fae13cda9d1eedb07e65ddfe81127e41a866167f357fdde6193a585e5268254791812d11dabfd03e086c8e3d46fb3b4820eef19f5bc73177f000000ffff0300504b0304
+140006000800000021009c53b828dc0000000a0100000f0000006472732f646f776e7265762e786d6c4c8f314fc33014847724fe83f590d8a8dd14501ae254800a0b530b627e8d5ddb22b623db4dc3bfe731c178bad3dd77ed66f6039b74ca2e0609cb8500a6431f950b46c2c7fbcb4d0d2c170c0a8718b4846f9d61d35d5e
+b4d8a8780e3b3ded8b6154127283126c2963c379eeadf6981771d481bc634c1e0bc964b84a78a6723ff04a887beed1055ab038ea67abfbaffdc94bd83e99b5e96b4c765b2be7a6f9f3f8665ea5bcbe9a1f1f80153d97bf30fce2133a74c47488a7a0321b48af2bfa522454b72b60145889bb25b00339552d80772dff7fa1fb
+010000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e7265
+6c73504b01022d001400060008000000210095bca79d98020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021009c53b828dc0000000a0100000f00000000000000000000000000f20400006472732f646f776e7265762e786d6c504b0506
+0000000004000400f3000000fb0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        6
+
+\par 3           4
+\par        3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8199\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4604088 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        6
+\par 3           4
+\par        3
+\par }}\dpx1920\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 position:}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid12521250     0\tab \tab      1\tab \tab      2\tab \tab     3\tab \tab   4}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 
+\tab \tab 5}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid12521250 
+\par }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par The }{\rtlch\fcs1 \af2 \ltrch\fcs0 \f2\insrsid1264411\charrsid8404588 TileGame}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411  class is also given in the project files.
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid11347921 {\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 Part a)}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid13850607  }{\rtlch\fcs1 \af40 \ltrch\fcs0 
+\b\f40\insrsid1264411  }{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid13850607 (12 points) }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 Write the }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 TileGame }{\rtlch\fcs1 \af40 
+\ltrch\fcs0 \f40\insrsid1264411 method }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 getIndexForFit }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+that determines where a given tile, in its current orientation, fits on the game board. A tile can be inserted at either end of a game board or between two existing tiles if the side(s) of the new tile match the adj
+acent side(s) of the tile(s) currently on the game board. If there are no tiles on the game board, the position for the insert is 0. The method returns the position that the new tile will occupy on the game board after it has been inserted. If there are m
+ultiple possible positions for the tile, the method will return any one of them. If the given tile does not fit anywhere on the game board, the method 
+\par returns }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 -1}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 .  An example is given on the next page.
+\par 
+\par For example, the following diagram shows a game board and two potential tiles to be placed. The call }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 getIndexForFit(tile1) }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+can return either 3 or 4 because }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 tile1 }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 can be inserted between the tiles at positions 2 and 3, or between the tiles at positions 3 and 4. The call }{
+\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 getIndexForFit(tile2) }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 returns }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 -1 }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 because }{
+\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 tile2}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 , in its current orientation, does not fit anywhere on the game board.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid89739 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 \tab \tab \tab \tab GAME BOARD\tab \tab \tab \tab \tab     NEW TILES
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid1264411 {\shp{\*\shpinst\shpleft8941\shptop243\shpright10072\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz18\shplid1044
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lTxid}{\sv 1179648}}{\sp{\sn fillColor}{\sv 14211288}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 29}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b03041400060008000000210072a06f92ab020000df0500000e0000006472732f65326f446f632e786d6cac545b4fdb30147e9fb4ff60f97d24e95a682b52d48198263140838967d7b1db08
+dbc7b3dd36ddafdfb193b485f1c2b497c43ee7f3b97ce7727ed1684536c2f91a4c498b939c12613854b55996f4e7e3f5a731253e30533105469474273cbd987dfc70beb553318015a84a3882468c9f6e6d495721d8699679be129af913b0c2a05282d32ce0d52db3cab12d5ad72a1be4f969b6055759075c788fd2ab564967
+c9be9482873b29bd08449514630be9ebd27711bfd9ec9c4d978ed955cdbb30d83f44a1596dd0e9ded4150b8cac5dfd97295d73071e6438e1a03390b2e622e580d914f9ab6c1e56cc8a940b92e3ed9e26ffffccf2dbcdbd237555d2c18412c334d6e85134817c8186a008f9d95a3f45d883456068508e75eee51e8531ed463a
+1dff9810413d32bddbb31bad71149e15e3623ca284a3ea74341e4e46d14a76786c9d0f5f0568120f257558bcc429dbdcf8d0427b48f4e541d5d575ad54bac4861197ca910dc3522f96457aaad6fa3b54ad6c3ccaf354707499fa2bc253002f2c2943b618e0e7519e2cbcd045f7071f8af1e72e8523145a5726862452fb75a1
+47125bb2d229ec948818657e0889f427cedec883712e4c487427bb888e288959bfe761873f44f59ec76d1ebd673061ff58d7065ccbd24bfaabe73e64d9e291e6a3bce331348b26f55d71d637d302aa1df69883764abde5d735127ec37cb8670ec712db0a574db8c38f54805582ee44c90adcefb7e4118fd3825a4ab638e625
+f5bfd6cc094ad4378373342986c3b817d265383a1be0c51d6b16c71ab3d69780ed55e052b33c1d233ea8fe281de827dc48f3e81555cc70f45dd2d01f2f43bb7c70a371319f27106e02cbc28d79b03c9a8e558a8df6d83c3167bb61083845b7d02f04367d35132d36be34305f0790751a984874cb6a5700dc22a9e3bb8d17d7
+d4f13da10e7b79f6070000ffff0300504b0304140006000800000021008c3fa314e00000000b0100000f0000006472732f646f776e7265762e786d6c4c8f514bc33010c7df857d8770822fc325ed86d6da740cc1a789e036d0c7ac39dbb0e652926caddfdeec49dfeeb81ffffbfdabf5647b76411f8c2309d94200436a9c36
+d44a38ec5fef0b60212ad2aa7784127e30c0ba9edd54aad46ea40fbcec62cb5208855249e8621c4ace43d3a15561e106a474fb76deaa9856df72edd598c26dcf73211eb85586d2874e0df8d26173da9dad0483e26446ff663fe7ef59b19cbbadffda7a29ef6ea7cd33b08853fc83e1aa9fd4a14e4e4777261d582fa1785a65
+099590af96c0ae80108f39b0639af24200af2bfebf43fd0b0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000
+000000000000000000002f0100005f72656c732f2e72656c73504b01022d001400060008000000210072a06f92ab020000df0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021008c3fa314e00000000b0100000f00000000000000000000000000
+050500006472732f646f776e7265762e786d6c504b05060000000004000400f3000000120600000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 8           2
+\par        9
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8210\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 8           2
+\par        9
+\par }}\dpx8941\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr216\dpfillbgcg216\dpfillbgcb216\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft7570\shptop243\shpright8701\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz17\shplid1045{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1245184}}{\sp{\sn fillColor}{\sv 14211288}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 24}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100f9cecde4ab020000df0500000e0000006472732f65326f446f632e786d6cac545b4fdb30147e9fb4ff60f97d24e95a281529ea404c9318a0958967d7b1db08
+dbc7b3dd36ddafdfb193b485f1c2b497c43ee7f3b97ce77271d9684536c2f91a4c498b939c12613854b55996f4e7e3cda731253e30533105469474273cbd9c7efc70b1b513318015a84a3882468c9f6c6d495721d8499679be129af913b0c2a05282d32ce0d52db3cab12d5ad72a1be4f969b6055759075c788fd2eb5649a7
+c9be9482877b29bd08449514630be9ebd27711bfd9f4824d968ed955cdbb30d83f44a1596dd0e9ded4350b8cac5dfd97295d73071e6438e1a03390b2e622e580d914f9ab6ce62b6645ca05c9f1764f93ff7f66f9dde6c191ba2ae9604889611a6bf4289a40be40435084fc6cad9f206c6e11181a94639d7bb947614cbb914e
+c73f2644508f4ceff6ec466b1c8567c5b8188f28e1a83a1d8d87e7a368253b3cb6ce87af02348987923a2c5ee2946d6e7d68a13d24faf2a0eaeaa6562a5d62c3882be5c88661a917cb223d556bfd1daa56361ee5792a38ba4cfd15e12980179694215b0cf0f3284f165ee8a2fb830fc5f87397c2110aad2b134312a9fdbad0
+23892d59e914764a448c323f8444fa13676fe4c138172624ba935d444794c4acdff3b0c31fa27acfe3368fde3398b07fac6b03ae65e925fdd5731fb26cf148f351def1189a4593faae18f7cdb4806a873de6a09d526ff94d8d84df321f1e98c3b1c4b6c25513eef123156095a03b51b202f7fb2d79c4e3b4a096922d8e7949
+fdaf35738212f5cde01c9d17c361dc0be9321c9d0df0e28e358b638d59eb2bc0f62a70a9599e8e111f547f940ef4136ea459f48a2a6638fa2e69e88f57a15d3eb8d1b898cd1208378165e1d6cc2d8fa6639562a33d364fccd96e18024ed11df40b814d5ecd448b8d2f0dccd601649d062612ddb2da1500b748eaf86ee3c535
+757c4fa8c35e9efe010000ffff0300504b030414000600080000002100957788bde00000000a0100000f0000006472732f646f776e7265762e786d6c4c8f514bc3301485df05ff43b8822f634bdaa92db5e910c1a789b029ccc7acb9b661cd4d49b2b5fe7be3933e5eeec739dfa937b31dd8057d308e24642b010ca975da50
+27e1e3fd6559020b519156832394f08d0136cdf555ad2aed26dae1651f3b964228544a421fe358711eda1ead0a2b3722a5df97f356c574fa8e6bafa6146e079e0bf1c0ad32941a7a35e2738fed697fb6120c8a9399fcab3d2cdeb272bd705bffb9f552dedecc4f8fc022cef10f865ffda40e4d723aba33e9c00609c57d91b6
+4409f9dd1a5802ca4264c08e89cc4b01bca9f9ff09cd0f000000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000
+000000000000000000002f0100005f72656c732f2e72656c73504b01022d0014000600080000002100f9cecde4ab020000df0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100957788bde00000000a0100000f00000000000000000000000000
+050500006472732f646f776e7265762e786d6c504b05060000000004000400f3000000120600000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 2           2
+\par        9
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8209\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 2           2
+\par        9
+\par }}\dpx7570\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr216\dpfillbgcg216\dpfillbgcb216\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft584\shptop243\shpright1715\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz12\shplid1046{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1310720}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 23}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021004529096098020000bb0500000e0000006472732f65326f446f632e786d6cac54df4fdb30107e9fb4ffc1f2fb48535a68aba6a803314d42800613cfae63b716
+8ecfb3dd26dd5fbfb39394c27861da4b62df7df7ebf3ddcd2f9a4a939d705e8129687e32a044180ea532eb82fe7cbcfe32a1c407664aa6c18882ee85a7178bcf9fe6b59d89216c4097c2117462fcacb605dd84606759e6f94654cc9f80150695125cc5025edd3a2b1dabd17ba5b3e1607096d5e04aeb800bef517ad52ae922
+f99752f07027a51781e882626e217d5dfaaee2375bccd96ced98dd28dea5c1fe218b8a2983410faeae586064ebd45fae2ac51d7890e184439581948a8b540356930fde54f3b06156a45a901c6f0f34f9ffe796dfeeee1d51654187a7941856e11b3d8a2690afd01014213fb5f533843d58048606e5f8cebddca33096dd4857
+c53f1644508f4cef0fec466f1c85e7f9249f8c29e1a83a1b4f46d371f492bd185be7c33701158987823a7cbcc429dbddf8d0427b488ce541abf25a699d2eb161c4a57664c7f0a9754829a2f357286d488dc14fc783e4f8952eba3ed8af34e3cf5d7a4728f4a74d0c27526b756945825a22d229ecb588186d7e0889d4263ede
+c991712ecc21cf848e2889157dc4b0c3bf64f511e3b60eb44891c1848371a50cb896a5d7d496cf3db5b2c5e31b1ed51d8fa15935a9a7f269df282b28f7d83f0eda09f4965f2b24fc86f970cf1c8e1cb60cae9170871fa9015f09ba13251b70bfdf93473c4e026a29a971840bea7f6d991394e8ef0667649a8f4671e6d36534
+3e1fe2c51d6b56c71ab3ad2e015b27c78565793a467cd0fd513aa89e70db2c63545431c3317641437fbc0ced62c16dc5c572994038e596851bf36079741d698e8df6d83c3167bb460f3821b7d00f3b9bbde9f7161b2d0d2cb701a44ac310896e59ed1e0037441aa76e9bc515747c4fa8979dbbf8030000ffff0300504b0304
+14000600080000002100fdc2b067dd000000090100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8d3d08209712a40854b4f94aa6737deda16f13a8add34fc3dee096eb39ad1ccdb7a35f98e8d38441748c27c5600436a83766424ecbedeef04b0981469d50542093f1861d55c5f
+d5aad2e14c9f386e9361b98462a524d894fa8af3d85af42ace428f94bd6318bc4af91c0cd7833ae772dff1b2281eb8578ef282553dbe596cbfb7272f61fd6a9e4c2bd460d7423b374efbe3c67c48797b33bd3c034b38a5bf305cf0333a3499e9104ea423eb242cc5222725948b7b6017ff71be0476c8a21405f0a6e6ff3f68
+7e010000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72
+656c73504b01022d00140006000800000021004529096098020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100fdc2b067dd000000090100000f00000000000000000000000000f20400006472732f646f776e7265762e786d6c504b05
+060000000004000400f3000000fc0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+
+\par 4           3
+\par        7
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8204\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        4
+\par 4           3
+\par        7
+\par }}\dpx584\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6094\shptop243\shpright7225\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz16\shplid1047{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1376256}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 25}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021008f52f65095020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9ba40984880d4a41549510a0868ab3e3b5c90a
+afedda4e76d35fcfb377f345b950f5b26bcfbcf97a9e998bcba652642d9c2f8dce69ffa44789d0dc14a57ecee9afc79b2f634a7c60ba60ca6891d38df0f472faf9d3456d276260964615c21138d17e52db9c2e43b0932cf37c292ae64f8c151a4a695cc502aeee392b1cabe1bd52d9a0d73bcd6ae30aeb0c17de437add2ae9
+34f99752f0702fa51781a89c22b790be2e7d17f19b4d2fd8e4d931bb2c799706fb872c2a566a04ddb9ba668191952bff725595dc196f6438e1a6ca8c942517a90654d3efbda966be6456a45a408eb73b9afcff73cbefd60f8e94454e07234a34abf0468fa209e49b690844e0a7b67e02d8dc02181ac8f1ce5bb9873096dd48
+57c53f0a22d083e9cd8edde88d4378d61ff7c708c2a13a1d8d87e7c97bb637b6ce87efc254241e72eaf0788953b6bef5018900ba85c458dea8b2b829954a97d830e24a39b266786a15528ab03842294d6a04ff3aea25c747bae87a67bf508cbfc4228f3de0a6740c27526b756945825a22d2296c948818a57f0a096a131fef
+e4c838177a976742479444451f31ecf0fbac3e62dcd6018b14d9e8b033ae4a6d5ccbd231b5c5cb965ad9e241d241ddf1189a45d3f6541ab0285a986283fe71a69d406ff94d09c26f990f0fcc61e4d0325823e11e1fa90c5ec974274a96c6fd794f1ef198046829a931c239f5bf57cc094ad40f8d1939ef0f8771e6d365383a
+1be0e20e358b438d5e555706add3c7c2b23c1d233ea8ed513a533d61dbcc6254a898e6889dd3b03d5e8576b1605b71319b2510a6dcb270abe79647d791e6d8688fcd1373b66bf48009b933db61679337fdde62a3a536b35530b24cc3b067b57b006c88d4afdd368b2be8f09e50fb9d3b7d050000ffff0300504b0304140006
+0008000000210086c62e90dd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca88d29250d712a40850b270ae2ecc65b3b225e47b69b86bfc79ce0b89aa799b7cd66f6039b30a63e9082eb850086d405d39355f0f1fe7c55014b5993d1432054f08d0936edf959a36b13
+4ef486d32e5b564a28d55a81cb79ac394f9d43afd3228c48253b84e8752e67b4dc447d2ae57ee0528815f7baa7b2e0f4884f0ebbafddd12bd83edab5ed2a1dddb6327d3fcd9f8757fba2d4e5c5fc700f2ce39cff60f8d52fead016a77d3892496c50b012eb654115c8e50db002dc49790b6c5f485909e06dc3ffbfd0fe0000
+00ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c73
+504b01022d00140006000800000021008f52f65095020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d001400060008000000210086c62e90dd0000000a0100000f00000000000000000000000000ef0400006472732f646f776e7265762e786d6c504b05060000
+000004000400f3000000f90500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        5
+
+\par 2           9
+\par        2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8208\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        5
+\par 2           9
+\par        2
+\par }}\dpx6094\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4720\shptop243\shpright5851\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz15\shplid1048{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1441792}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 26}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100c4f3e5b496020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9ba40984880d4a41549510a0868ab3e3b58985
+ed716d27bbe9af67ecdd2c8172a1ea65d79e79f3f53c3367e78dd1642b7c50604b3a3c1a50222c874ad9c792febabffa32a52444662ba6c18a92ee44a0e7f3cf9fce6a3713235883ae8427e8c48659ed4aba8ed1cd8a22f0b5302c1c8113169512bc6111affeb1a83cabd1bbd1c56830382e6af095f3c0450828bd6c95749e
+fd4b2978bc95328848744931b798bf3e7f57e95bcccfd8ecd133b756bc4b83fd431686298b417b57972c32b2f1ea2f5746710f01643ce2600a905271916bc06a868337d52cd7cc895c0b92135c4f53f87f6ef9cdf6ce13559574744c896506dfe85e34917c8386a008f9a95d98216ce910181b94e33befe50185a9ec467a93
+fe5810413d32bdebd94dde380a4f86d3e174420947d5f1643a3e9d242fc58bb1f3217e1760483a94d4e3e3654ed9f63ac416ba87a45801b4aaae94d6f9921a465c684fb60c9f5ac79c223a7f85d296d418fceb64901dbfd225d7bdfd4a33fed4a57780427fdaa67022b756975622a825229fe24e8b84d1f6a790486de6e39d
+1c19e7c2f67966744249ace823861dfe25ab8f18b775a0458e0c36f6c64659f02d4bafa9ad9ef6d4ca168f6f7850773ac666d5b43dd537ca0aaa1df68f87760283e3570a09bf6621de318f23872d836b24dee2476ac05782ee44c91afc9ff7e4098f93805a4a6a1ce19286df1be60525fa87c519391d8ec769e6f3653c3919
+e1c51f6a56871abb311780ad33c485e5783e267cd4fba3f4601e70db2c52545431cb317649e3fe7811dbc582db8a8bc5228370ca1d8bd776e978729d684e8d76df3c30efba468f382137b01f76367bd3ef2d36595a586c224895872111ddb2da3d006e883c4edd364b2be8f09e512f3b77fe0c0000ffff0300504b03041400
+0600080000002100620aa5acdd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8d3d08209712a40850b270ae2ecc6ae6d11af23db4dc3dfb39ce0b8daa79937ed660e039b4cca3ea284e5a20266b08fdaa395f0f1fe7c2580e5a250ab21a291f06d326cbaf3b35635
+3a9ef0cd4cbb621985606e940457cad8709e7b6782ca8b381aa4df21a6a00a9dc9729dd489c2c3c0ebaabae14179a406a746f3e44cffb53b0609db477b677ba192db0aedfd347f1e5eed8b949717f3c33db062e6f207c3af3ea943474efb78449dd92061755bd39622a15e5d0323602dd64b607b226b5101ef5afe7f42f703
+0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c
+73504b01022d0014000600080000002100c4f3e5b496020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100620aa5acdd0000000a0100000f00000000000000000000000000f00400006472732f646f776e7265762e786d6c504b050600
+00000004000400f3000000fa0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+
+\par 2           2
+\par        5
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8207\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        3
+\par 2           2
+\par        5
+\par }}\dpx4720\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3329\shptop243\shpright4460\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz14\shplid1049{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1507328}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 27}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b030414000600080000002100d72f5fb697020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9ba40984880d4a41549510a0868ab3e3b58985
+ed716d27bbe9af67ecdd0d8172a1ea65d79e79f3f53c3367e78dd1642b7c50604b3a3c1a50222c874ad9c792febabffa32a52444662ba6c18a92ee44a0e7f3cf9fce6a3713235883ae8427e8c48659ed4aba8ed1cd8a22f0b5302c1c8113169512bc6111affeb1a83cabd1bbd1c56830382e6af095f3c0450828bd6c95749e
+fd4b2978bc95328848744931b798bf3e7f57e95bcccfd8ecd133b756bc4b83fd431686298b41f7ae2e596464e3d55fae8ce21e02c878c4c11420a5e222d780d50c076faa59ae9913b9162427b83d4de1ffb9e537db3b4f5455d2d1092596197ca37bd144f20d1a8222e4a7766186b0a543606c508eefdccb030a53d98df426
+fdb120827a647ab7673779e3283c194e87d309251c55c793e9f87492bc142fc6ce87f85d8021e950528f8f973965dbeb105b680f49b10268555d29adf325358cb8d09e6c193eb58e394574fe0aa52da931f8d7c9203b7ea54baef7f62bcdf85397de010afd699bc289dc5a5d5a89a096887c8a3b2d1246db9f4222b5998f77
+72649c0bbbcf33a3134a62451f31ecf02f597dc4b8ad032d7264b0716f6c9405dfb2f49adaeaa9a756b6787cc383bad33136aba6eda951df282ba876d83f1eda090c8e5f2924fc9a8578c73c8e1cb60cae91788b1fa9015f09ba13256bf07fde93273c4e026a29a971844b1a7e6f981794e81f1667e474381ea799cf97f1e4
+6484177fa8591d6aecc65c00b6ce101796e3f998f051f747e9c13ce0b659a4a8a8629663ec92c6fe7811dbc582db8a8bc5228370ca1d8bd776e978729d684e8d76df3c30efba468f382137d00f3b9bbde9f7169b2c2d2c3611a4cac390886e59ed1e0037441ea76e9ba5157478cfa8979d3b7f060000ffff0300504b030414
+000600080000002100c932fabedd0000000a0100000f0000006472732f646f776e7265762e786d6c4c8fc14ec3301044ef48fc83b548dca8431255698853012a5c38d122cedbd8b52d623bb2dd34fc3dcb098eab7d9a79d36d1737b259c564831770bf2a80293f0469bd16f07178b96b80a58c5ee218bc12f0ad126cfbebab
+0e5b192efe5dcdfbac1985f8d4a20093f3d4729e06a31ca6559894a7df29448799cea8b98c78a17037f2b228d6dca1f5d4607052cf460d5ffbb313b07bd21b3d3418cdae91d6cecbe7e94dbf0a717bb33c3e00cb6ac97f30fcea933af4e4740c672f131b055455b92154405957c008a8eb358d3b12593605f0bee3ff27f43f
+000000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e7265
+6c73504b01022d0014000600080000002100d72f5fb697020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d0014000600080000002100c932fabedd0000000a0100000f00000000000000000000000000f10400006472732f646f776e7265762e786d6c504b0506
+0000000004000400f3000000fb0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        1
+
+\par 4           2
+\par        3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8206\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        1
+\par 4           2
+\par        3
+\par }}\dpx3329\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1920\shptop243\shpright3051\shpbottom1280\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz13\shplid1050{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1572864}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn wzName}{\sv Text Box 28}}{\sp{\sn metroBlob}{\sv {\*\svb 
+504b030414000600080000002100b6833892fe000000e1010000130000005b436f6e74656e745f54797065735d2e786d6c9491414ec3301045f748dcc1f216254ebb400825e982b44b40a81c60644f128b646c794c686f8f93b61b449158da33ffbf27bbdc1cc6414c18d83aaae42a2fa440d2ce58ea2af9bedf650f527004
+323038c24a1e91e5a6bebd29f7478f2c529ab8927d8cfe5129d63d8ec0b9f34869d2ba30424cc7d0290ffa033a54eba2b857da51448a599c3b645d36d8c2e710c5f690ae4f26010796e2e9b438b32a09de0f56434ca66a22f383929d09794a2e3bdc5bcf774943aa5f09f3e43ae09c7b494f13ac41f10a213ec398349409ac
+70ed1aa7f3bf3b66c99133d7b65663de04de2ea98bd3b56ee3be28e0f4dff226c5de70bab4abe583ea6f000000ffff0300504b03041400060008000000210038fd21ffd6000000940100000b0000005f72656c732f2e72656c73a490c16ac3300c86ef83bd83d17d719ac318a34e2fa3d06be91ec0d88a631a5b4632d9faf6
+3383c1327adb51bfd0f7897f7ff84c8b5a91255236b0eb7a50981df9988381f7cbf1e90594549bbd5d28a3811b0a1cc6c787fd19175bdb91ccb1886a942c06e65acbabd6e2664c563a2a98db66224eb6b691832ed65d6d403df4fdb3e6df0c18374c75f206f8e40750975b69e63fec141d93d0543b4749d33445778faa3d7d
+e433ae8d62396035e059be43c6b56bcf81beefddfdd31bd89639ba23db846fe4b67e1ca8653f7abde972fc020000ffff0300504b0304140006000800000021004cc23c9797020000bb0500000e0000006472732f65326f446f632e786d6cac544d4f1b3110bd57ea7fb07c2f9b840442c406a520aa4a085043c5d9f1dac4c2
+f6b8b693ddf4d777ecdd0d8172a1ea65773cf33c9e79f3717ed1184db6c20705b6a4c3a30125c272a8947d2ae9cf87eb2f534a4264b6621aac28e94e047a31fffce9bc7633318235e84a78824e6c98d5aea4eb18ddac28025f0bc3c2113861d128c11b16f1e89f8acab31abd1b5d8c068393a2065f390f5c8480daabd648e7
+d9bf9482c73b298388449714638bf9ebf37795bec5fc9ccd9e3c736bc5bb30d83f446198b2f8e8ded5158b8c6cbcfacb9551dc4300198f389802a4545ce41c309be1e04d36cb357322e782e404b7a729fc3fb7fc767bef89aa4a3ac24a5966b0460fa289e42b340455c84fedc20c614b87c0d8a01eebdceb032a53da8df426
+fd31218276647ab7673779e3a83c1d4e87d309251c4d2793e9f86c92bc142f979d0ff19b00439250528fc5cb9cb2ed4d882db487a4b70268555d2badf321358cb8d49e6c19965ac71c223a7f85d296d4f8f8f164901dbfb225d7fbfb2bcdf87317de010afd699b9e13b9b5bab012412d11598a3b2d1246db1f4222b5998f77
+62649c0bbb8f33a3134a62461fb9d8e15fa2fac8e5360fbc915f061bf7978db2e05b965e535b3df7d4ca168f353cc83b89b159356d4f1df78db2826a87fde3a19dc0e0f8b542c26f5888f7cce3c861cbe01a8977f8911ab04ad04994acc1ff7e4f9ff0380968a5a4c6112e69f8b5615e50a2bf5b9c91b3e1789c663e1fc693
+d3111efca1657568b11b7309d83a435c588e6731e1a3ee45e9c13ce2b659a457d1c42cc7b74b1a7bf132b68b05b715178b4506e1943b166fecd2f1e43ad19c1aeda17964de758d1e71426ea11f76367bd3ef2d36ddb4b0d844902a0f4322ba65b52b006e883c4edd364b2be8f09c512f3b77fe070000ffff0300504b030414
+0006000800000021009c53b828dc0000000a0100000f0000006472732f646f776e7265762e786d6c4c8f314fc33014847724fe83f590d8a8dd14501ae254800a0b530b627e8d5ddb22b623db4dc3bfe731c178bad3dd77ed66f6039b74ca2e0609cb8500a6431f950b46c2c7fbcb4d0d2c170c0a8718b4846f9d61d35d5eb4
+d8a8780e3b3ded8b6154127283126c2963c379eeadf6981771d481bc634c1e0bc964b84a78a6723ff04a887beed1055ab038ea67abfbaffdc94bd83e99b5e96b4c765b2be7a6f9f3f8665ea5bcbe9a1f1f80153d97bf30fce2133a74c47488a7a0321b48af2bfa522454b72b60145889bb25b00339552d80772dff7fa1fb01
+0000ffff0300504b01022d0014000600080000002100b6833892fe000000e10100001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d001400060008000000210038fd21ffd6000000940100000b000000000000000000000000002f0100005f72656c732f2e72656c
+73504b01022d00140006000800000021004cc23c9797020000bb0500000e000000000000000000000000002e0200006472732f65326f446f632e786d6c504b01022d00140006000800000021009c53b828dc0000000a0100000f00000000000000000000000000f10400006472732f646f776e7265762e786d6c504b050600
+00000004000400f3000000fa0500000000}}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        6
+
+\par 3           4
+\par        3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8205\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1264411        6
+\par 3           4
+\par        3
+\par }}\dpx1920\dpy243\dpxsize1131\dpysize1037\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew10\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 \tab \tab \tab \tab 
+\tab \tab \tab \tab \tab \tab             TILE 1\tab          TILE 2
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 position:}{\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411\charrsid12521250     0\tab \tab      1\tab \tab      2\tab \tab     3\tab \tab   4
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid89739 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 {\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20\insrsid1264411 
+\par _____________________________________________________________________________________
+\par  }{\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20\insrsid1264411\charrsid8807620 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid89739 {\rtlch\fcs1 \af40 \ltrch\fcs0 \b\f40\insrsid1264411 Part b)}{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411  Write the }{\rtlch\fcs1 \af5 \ltrch\fcs0 
+\f5\insrsid1264411 TileGame }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 method }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 insertTile }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 
+that attempts to insert the given tile on the game board. The method returns }{\rtlch\fcs1 \af5 \ltrch\fcs0 \f5\insrsid1264411 true }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 if the tile is inserted successfully and }{\rtlch\fcs1 \af5 
+\ltrch\fcs0 \f5\insrsid1264411 false }{\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411 only if the tile cannot be placed on the board in any orientation. 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1508334 {\rtlch\fcs1 \af40 \ltrch\fcs0 \f40\insrsid1264411\charrsid9375314 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16323213 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1264411\charrsid9375314 Assume that }{\rtlch\fcs1 \af2 \ltrch\fcs0 
+\f2\insrsid1264411\charrsid9375314 getIndexForFit}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1264411\charrsid9375314  works as specified, regardless of what you wrote in part (a).  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9375314 {\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20\insrsid1264411 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16323213 {\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20\insrsid1264411\charrsid4540988 
+\par }}
